@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154469489692",
+    "project_id": "zshackathon-b96e6",
+    "storage_bucket": "zshackathon-b96e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154469489692:android:db942c0c092e1a0b7653d9",
+        "android_client_info": {
+          "package_name": "com.example.zshackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154469489692-mlrvjaah4jvr183bi5vm7uaqfhs4hi0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXHpMPu1DbBjg3po29yniyrMMdFeYEeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154469489692-mlrvjaah4jvr183bi5vm7uaqfhs4hi0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
